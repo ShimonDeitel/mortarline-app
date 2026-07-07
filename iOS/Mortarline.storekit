@@ -1,0 +1,32 @@
+{
+  "identifier": "2A5F0000-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "10000002",
+      "localizations": [
+        {
+          "description": "Mortar mix ratio notes and unlimited locations",
+          "displayName": "Mortarline Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.mortarline.pro",
+      "referenceName": "Pro Unlock",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US",
+    "_developerObserverModeEnabled": false,
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
